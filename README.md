@@ -6,5 +6,6 @@ This is my personal resume/CV webpage created with HTML.
 
 https://roadmap.sh/projects/single-page-cv
 
+https://Jay339173737.github.io/Projects/
 ## About
 Contains my education, experience, and skills.
